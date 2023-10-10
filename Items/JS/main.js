@@ -93,7 +93,7 @@ themeButton.addEventListener('click', () => {
 const sr = ScrollReveal({
     origin: 'top',
     distance: '30px',
-    duration: 1500,
+    duration: 1200,
     reset: true
 });
 
